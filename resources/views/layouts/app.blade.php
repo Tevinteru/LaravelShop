@@ -39,7 +39,7 @@
 
                     @auth
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('login') }}">Таблица 1</a>
+                                <a class="nav-link" href="{{ route('product.index') }}">Товары</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('login') }}">Таблица 2</a>
